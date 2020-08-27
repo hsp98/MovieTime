@@ -1,0 +1,14 @@
+.filter-button{
+    float: left;
+}
+
+#filter{
+    position: absolute;
+    z-index: 5;
+    float: left;
+  }
+  #theTable{
+      background-color: white;
+       float : left;
+
+  }
