@@ -1,7 +1,6 @@
 #Project Proposal Group-26
 
-Description: This project contains the user interface of the website MovieTime. No backend is implemented as per requirements of Project Proposal. However, necessary validations are used. This gives the website a better feel.
-
+Description: This project contains the user interface of the website MovieTime.
 
 #Authors
 Maya Varrier  B00847050
